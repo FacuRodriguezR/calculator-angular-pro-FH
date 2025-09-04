@@ -1,0 +1,13 @@
+{
+    "angular-schematics.schematicsDefaultOptions": {
+        "angular-*": {
+            "externalTemplate": true,
+            "skipStyle": true
+        }
+    },
+    "markdown.updateLinksOnFileMove.enableForDirectories": true,
+    "accessibility.signals.lineHasError": {
+        "sound": "off",
+        "announcement": "off"
+    }
+}
